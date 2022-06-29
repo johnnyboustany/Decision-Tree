@@ -6,7 +6,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 /**
- * This is the main App class. Do not edit.
+ * This is the main App class.
  *
  */
 public class App extends Application {

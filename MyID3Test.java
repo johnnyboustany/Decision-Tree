@@ -11,8 +11,7 @@ import static org.junit.Assert.assertThat;
 import static org.junit.Assert.assertTrue;
 
 /**
- * This class can be used to test the functionality of your MyID3 implementation.
- * Use the Heap stencil and your heap tests as a guide!
+ * This class is used to test the functionality of your MyID3 implementation.
  * 
  */
 

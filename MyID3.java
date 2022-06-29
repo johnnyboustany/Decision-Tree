@@ -7,14 +7,14 @@ import support.decisiontree.ID3;
 import java.util.ArrayList;
 
 /**
-  * This class is where your ID3 algorithm should be implemented.
+  * This class that implements the ID3 algorithm.
   */
 public class MyID3 implements ID3 {
     private String _negative;
     private String _positive;
 
     /**
-     * Constructor. You don't need to edit this.
+     * Constructor.
      */
     public MyID3() {
         
@@ -87,7 +87,7 @@ public class MyID3 implements ID3 {
     }
 
     /**
-     * This method find the classification that appears most frequently and returns
+     * This method finds the classification that appears most frequently and returns
      * a new node with this classification.
      */
     public DecisionTreeNode mostFreqClassificationNode(String[][] examples){

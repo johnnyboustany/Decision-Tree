@@ -6,13 +6,12 @@ import org.junit.runner.notification.Failure;
 
 
 /*
- * You do not need to edit this file.
  *
- * This class is used to run all of your JUnit tests, which should be written in the
- * the MyID3Test.java file. If any of your tests fail, a failure
- * message will be printed out, and if they all pass, "all tests passed!" will be printed.
+ *
+ * This class is used to run all of the JUnit tests, which can be found in
+ * the MyID3Test.java file.
  * 
- * One way of running your tests is to right-click on this class (TestRunner.java) in the
+ * One way of running the tests is to right-click on this class (TestRunner.java) in the
  * Eclipse package explorer and select Run As -> Java Application.
  *
  */
