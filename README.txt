@@ -1,5 +1,4 @@
 This is a decision tree (an approach used in Supervised Machine Learning) that can be trained over different data sets to produce various classifications.
-
 # Design Choices:
 
     First of all, I handled edge cases in myID3Algorithm method with regard to no more examples,
