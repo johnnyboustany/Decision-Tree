@@ -1,6 +1,8 @@
+# Decision Tree Project:
+
 This is a decision tree (an approach used in Supervised Machine Learning) that can be trained over different data sets to produce various classifications.
 
-# Design Choices:
+## Design Choices:
 
 First of all, I handled edge cases in myID3Algorithm method with regard to no more examples,
 examples with the same classification and no more attributes. I used the mostFreqClassificationNode
@@ -30,7 +32,7 @@ and 1D array of classifications are all passed into myID3Algorithm. This impleme
 of the algorithm and builds the whole tree.
 
 
-# Testing:
+## Testing:
 
 The JUnit tests test important edge cases such as the sum of positive and negative count being 0
 and log(0) being 0, among other important cases. It also compares the results of the helper methods
